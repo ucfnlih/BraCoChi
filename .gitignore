@@ -132,3 +132,13 @@ dmypy.json
 data/
 
 
+# Folders
+data/
+
+# Other formats
+*.zip
+*.gz
+*.csv
+
+
+
