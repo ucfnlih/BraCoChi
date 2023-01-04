@@ -128,6 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Data folder
+data/
+
+
 # Folders
 data/
 
@@ -135,3 +139,6 @@ data/
 *.zip
 *.gz
 *.csv
+
+
+
